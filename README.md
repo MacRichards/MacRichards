@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacRichards&layout=compact&langs_count=6&title_color=cbab58&text_color=cbab58&bg_color=1A1915)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MacRichards&show_icons=true&title_color=cbab58&text_color=cbab58&bg_color=1A1915)
+
+- 🔭 I’m currently working on FiveM scripts and a website for the Order of the Arrow.
+- 🌱 I’m currently learning Lua and C++.
+- 😄 Pronouns: He/Him
+
 <!--
 **MacRichards/MacRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
