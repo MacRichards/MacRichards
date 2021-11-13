@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="http://www.macrichards.com">Mac Richards</a>!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="http://www.macrichards.com">Mac Richards</a>!</h1>
 
 - 🔭 I’m currently working on FiveM scripts and a website for the Order of the Arrow.
 - 🌱 I’m currently learning Swift.
@@ -6,25 +6,22 @@
 - 😄 Pronouns: He/Him
 
 ## 🛠 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-HTMLl5-informational?style=flat&logo=html5&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=d4af37)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=d4af37)
 
 ## ⚙️ Github Analytics
 <p align="center">
-  <a href="https://github.com/MacRichards"><img src="https://github-readme-stats.vercel.app/api?username=MacRichards&show_icons=true&title_color=cbab58&text_color=cbab58&bg_color=1A1915" alt="My github stats"></a>
+  <a href="https://github.com/MacRichards"><img src="https://github-readme-stats.vercel.app/api?username=MacRichards&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=d4af37&bg_color=1d1f21" alt="My github stats"></a>
 </p>
 
 ##
